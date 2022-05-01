@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter");
+
+body {
+  height: 25vh;
+  margin: 0;
+  display: grid;
+  place-items: center;
+  font-family: "Inter";
+  font-style: normal;
+  font-size: 12px;
+  line-height: 18px;
+}
+
+#root {
+  height: 100%;
+  width: 100%;
+}
